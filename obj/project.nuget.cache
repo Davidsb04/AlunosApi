@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5xRRxzox2Ax1n4BG5x5Je92FjCayP7iTtl9jeVwbfelsa4ZyrJjRPkrZ4yIr+oh4ZmKruB2do/hs9PZe6FaQCg==",
+  "dgSpecHash": "XeqNNniUaFrgCWFb2EMnmzmSM+2VyChMroBICEhSxx5vE8R9DSzJhsjov701HEKGWFxSPg5+RpOkmT3JrpOexg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caisi\\Desktop\\Projetos\\ProjetoFullStackReact\\alunosapi\\alunosapi.csproj",
+  "projectFilePath": "C:\\Users\\caisi\\Downloads\\alunosapi\\alunosapi\\alunosapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caisi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\caisi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

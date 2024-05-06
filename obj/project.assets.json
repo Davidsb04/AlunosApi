@@ -2729,11 +2729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caisi\\Desktop\\Projetos\\ProjetoFullStackReact\\alunosapi\\alunosapi.csproj",
+      "projectUniqueName": "C:\\Users\\caisi\\Downloads\\alunosapi\\alunosapi\\alunosapi.csproj",
       "projectName": "alunosapi",
-      "projectPath": "C:\\Users\\caisi\\Desktop\\Projetos\\ProjetoFullStackReact\\alunosapi\\alunosapi.csproj",
+      "projectPath": "C:\\Users\\caisi\\Downloads\\alunosapi\\alunosapi\\alunosapi.csproj",
       "packagesPath": "C:\\Users\\caisi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caisi\\Desktop\\Projetos\\ProjetoFullStackReact\\alunosapi\\obj\\",
+      "outputPath": "C:\\Users\\caisi\\Downloads\\alunosapi\\alunosapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
